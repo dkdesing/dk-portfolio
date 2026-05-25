@@ -1,11 +1,17 @@
 import './style.css'
-export const metadata = { export const metadata = {
-  title: "DK Design",
-  description: "Interior / Exterior Design",
+
+export const metadata = {
+  title: 'DK Design',
+  description: 'Interior / Exterior Design',
   icons: {
-    icon: "/favicon.png",
+    icon: '/favicon.png',
   },
 }
+
 export default function RootLayout({ children }) {
-  return <html lang="uk"><body>{children}</body></html>
+  return (
+    <html lang="uk">
+      <body>{children}</body>
+    </html>
+  )
 }
