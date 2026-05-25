@@ -84,3 +84,6 @@ html[data-lang="en"] .langEn { display: inline; }
   }
 
 }
+
+@media (max-width:768px){.header{position:relative!important}}
+
