@@ -30,7 +30,7 @@ export default function Home() {
           </div>
           <div className="actions">
             <LangThemeControls />
-            <a className="btn dark" href={`tel:${site.phone}`}>{site.phone}</a>
+        
           </div>
         </nav>
       </header>
