@@ -1,0 +1,30 @@
+[
+  {
+    "slug": "sky-centre",
+    "title": "SKY centre",
+    "category": "Житловий інтерʼєр",
+    "description": "Комплексний дизайн квартири: кухня-вітальня, спальня, ТВ-зона та санвузол у світлій мінімалістичній палітрі.",
+    "cover": "/projects/sky-centre/1.jpg",
+    "images": [
+      "/projects/sky-centre/1.jpg",
+      "/projects/sky-centre/2.jpg",
+      "/projects/sky-centre/3.jpg",
+      "/projects/sky-centre/4.jpg",
+      "/projects/sky-centre/5.jpg",
+      "/projects/sky-centre/6.jpg",
+      "/projects/sky-centre/7.jpg"
+    ]
+  },
+  {
+    "slug": "manhattan",
+    "title": "Manhattan",
+    "category": "Приклад папки проєкту",
+    "description": "Це приклад другої папки. Замініть фото у public/projects/manhattan та текст у data/projects.json.",
+    "cover": "/projects/manhattan/1.svg",
+    "images": [
+      "/projects/manhattan/1.svg",
+      "/projects/manhattan/2.svg",
+      "/projects/manhattan/3.svg"
+    ]
+  }
+]

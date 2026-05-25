@@ -1,23 +1,10 @@
-# DK Desing Portfolio
+# DK Desing Portfolio — folder system
 
-## Запуск локально
+Редагування:
+- data/site.json — головні тексти, телефон, email
+- data/projects.json — папки портфоліо
+- data/team.json — команда
+- public/projects/... — фото проєктів
+- public/team/... — фото команди
 
-npm install
-npm run dev
-
-## Як міняти фото вручну
-
-Фото проєкту SKY centre лежать у:
-
-public/images/sky-centre
-
-Після додавання нових фото треба змінити масив `defaultImages` у `app/page.js`.
-
-## Admin
-
-Сторінка адміна:
-
-/admin
-
-Важливо: ця адмінка зберігає зміни тільки у браузері через localStorage.
-Для справжнього адміна з логіном і завантаженням фото потрібна CMS.
+Після змін: Commit + Push у GitHub Desktop.
