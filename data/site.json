@@ -1,10 +1,14 @@
 {
-  "brand": "DK Desing",
+  "brand": "DK Design",
   "heroLabel": "Interior / Exterior / 3D Visualization",
   "heroTitle": "Світлий мінімалізм для сучасних просторів",
   "heroText": "Створюємо інтерʼєри, екстерʼєри та 3D-візуалізації з акцентом на чисті лінії, комфорт, світло та преміальну простоту.",
-  "aboutTitle": "Про DK Desing",
-  "aboutText": "DK Desing — портфоліо студії дизайну та 3D-візуалізації. Ми працюємо зі світлими сучасними просторами, продуманим плануванням, натуральними фактурами та деталями, які формують атмосферу.",
+  "aboutTitle": "Про DK Design",
+  "aboutText": "DK Design — студія дизайну та 3D-візуалізації. Ми працюємо зі світлими сучасними просторами, продуманим плануванням, натуральними фактурами та деталями, які формують атмосферу.",
   "phone": "0995081424",
-  "email": "konskiyden@gmail.com"
+  "email": "konskiyden@gmail.com",
+  "heroTitleEn": "Light minimalism for modern spaces",
+  "heroTextEn": "We create interiors, exteriors and 3D visualizations focused on clean lines, comfort, light and premium simplicity.",
+  "aboutTitleEn": "About DK Design",
+  "aboutTextEn": "DK Design is an interior design and 3D visualization studio. We work with light modern spaces, thoughtful planning, natural textures and details that create atmosphere."
 }

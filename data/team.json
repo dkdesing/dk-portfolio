@@ -3,6 +3,8 @@
     "name": "DK Desing",
     "role": "Дизайнер / 3D-візуалізатор",
     "bio": "Робота з інтерʼєрами, екстерʼєрами, візуалізаціями та презентаційними матеріалами.",
-    "photo": "/team/person.svg"
+    "photo": "/team/person.svg",
+    "roleEn": "Designer / 3D visualizer",
+    "bioEn": "Interior, exterior, visualization and presentation design."
   }
 ]

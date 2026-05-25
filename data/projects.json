@@ -13,18 +13,24 @@
       "/projects/sky-centre/5.jpg",
       "/projects/sky-centre/6.jpg",
       "/projects/sky-centre/7.jpg"
-    ]
+    ],
+    "titleEn": "SKY centre",
+    "categoryEn": "Residential interior",
+    "descriptionEn": "A complete apartment design: kitchen-living room, bedroom, TV area and bathroom in a light minimalist palette."
   },
   {
     "slug": "manhattan",
     "title": "Manhattan",
-    "category": "Приклад папки проєкту",
-    "description": "Це приклад другої папки. Замініть фото у public/projects/manhattan та текст у data/projects.json.",
+    "category": "Житловий інтерʼєр",
+    "description": "Сучасний інтерʼєр у світлому мінімалістичному стилі з акцентом на комфорт, чисті лінії та спокійну атмосферу.",
     "cover": "/projects/manhattan/1.svg",
     "images": [
       "/projects/manhattan/1.svg",
       "/projects/manhattan/2.svg",
       "/projects/manhattan/3.svg"
-    ]
+    ],
+    "titleEn": "Manhattan",
+    "categoryEn": "Residential interior",
+    "descriptionEn": "A modern interior in a light minimalist style focused on comfort, clean lines and a calm atmosphere."
   }
 ]

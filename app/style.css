@@ -26,3 +26,7 @@ html[data-theme="dark"] .contactBox {
 html[data-theme="dark"] .contactBox .text {
   color: #4c463e;
 }
+
+.langEn { display: none; }
+html[data-lang="en"] .langUa { display: none; }
+html[data-lang="en"] .langEn { display: inline; }
