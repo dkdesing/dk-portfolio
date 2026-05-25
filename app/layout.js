@@ -1,4 +1,5 @@
 import './style.css'
+import { Analytics } from "@vercel/analytics/react"
 
 export const metadata = {
   title: 'DK Design',
@@ -11,7 +12,10 @@ export const metadata = {
 export default function RootLayout({ children }) {
   return (
     <html lang="uk">
-      <body>{children}</body>
+      <body>
+        {children}
+        <Analytics />
+      </body>
     </html>
   )
 }
