@@ -30,3 +30,57 @@ html[data-theme="dark"] .contactBox .text {
 .langEn { display: none; }
 html[data-lang="en"] .langUa { display: none; }
 html[data-lang="en"] .langEn { display: inline; }
+
+@media (max-width: 768px) {
+
+  nav {
+    padding: 20px;
+    flex-wrap: wrap;
+    gap: 12px;
+  }
+
+  h1 {
+    font-size: 56px !important;
+    line-height: 1 !important;
+  }
+
+  section {
+    padding: 40px 20px !important;
+  }
+
+  .hero {
+    padding-top: 40px !important;
+  }
+
+  .projects-grid {
+    grid-template-columns: 1fr !important;
+  }
+
+  .project-images {
+    grid-template-columns: 1fr !important;
+  }
+
+  .contact-buttons {
+    flex-direction: column !important;
+    width: 100%;
+  }
+
+  button,
+  .btn {
+    width: 100%;
+  }
+
+  img {
+    width: 100%;
+    height: auto;
+  }
+
+  .team-grid {
+    grid-template-columns: 1fr !important;
+  }
+
+  .about-grid {
+    grid-template-columns: 1fr !important;
+  }
+
+}
