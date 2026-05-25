@@ -1,14 +1,14 @@
+import './style.css'
+
 export const metadata = {
   title: 'DK Desing',
-  description: 'Portfolio website'
+  description: 'Portfolio website by DK Desing'
 }
 
 export default function RootLayout({ children }) {
   return (
     <html lang="uk">
-      <body style={{margin:0,fontFamily:'Arial, sans-serif',background:'#f8f6f1'}}>
-        {children}
-      </body>
+      <body>{children}</body>
     </html>
   )
 }
