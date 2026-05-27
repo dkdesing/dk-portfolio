@@ -13,7 +13,6 @@
     "categoryEn": "Residential interior",
     "descriptionEn": "Complete apartment design"
   },
-
   {
     "slug": "manhattan",
     "title": "Manhattan",
@@ -29,7 +28,6 @@
     "categoryEn": "Residential interior",
     "descriptionEn": "Modern light minimalist interior"
   },
-
   {
     "slug": "manhattan-2",
     "title": "Manhattan 2",
@@ -44,5 +42,95 @@
     "titleEn": "Manhattan 2",
     "categoryEn": "Residential interior",
     "descriptionEn": "Modern dark style interior"
+  },
+  {
+    "slug": "manhattan-3",
+    "title": "Manhattan 3",
+    "category": "Житловий інтерʼєр",
+    "description": "Дизайн інтерʼєру житлового простору",
+    "cover": "/projects/manhattan-3/1.jpg",
+    "images": [
+      "/projects/manhattan-3/1.jpg",
+      "/projects/manhattan-3/2.jpg",
+      "/projects/manhattan-3/3.jpg"
+    ],
+    "titleEn": "Manhattan 3",
+    "categoryEn": "Residential interior",
+    "descriptionEn": "Residential interior design project"
+  },
+  {
+    "slug": "parkova-aleya",
+    "title": "Паркова алея",
+    "category": "Житловий інтерʼєр",
+    "description": "Проєкт інтерʼєру для житлового комплексу Паркова алея",
+    "cover": "/projects/parkova-aleya/1.jpg",
+    "images": [
+      "/projects/parkova-aleya/1.jpg",
+      "/projects/parkova-aleya/2.jpg",
+      "/projects/parkova-aleya/3.jpg"
+    ],
+    "titleEn": "Parkova Aleya",
+    "categoryEn": "Residential interior",
+    "descriptionEn": "Interior design project for Parkova Aleya residential complex"
+  },
+  {
+    "slug": "parkove-mistechko",
+    "title": "Паркове містечко",
+    "category": "Житловий інтерʼєр",
+    "description": "Проєкт інтерʼєру для житлового комплексу Паркове містечко",
+    "cover": "/projects/parkove-mistechko/1.jpg",
+    "images": [
+      "/projects/parkove-mistechko/1.jpg",
+      "/projects/parkove-mistechko/2.jpg",
+      "/projects/parkove-mistechko/3.jpg"
+    ],
+    "titleEn": "Parkove Mistechko",
+    "categoryEn": "Residential interior",
+    "descriptionEn": "Interior design project for Parkove Mistechko residential complex"
+  },
+  {
+    "slug": "kluziv",
+    "title": "Клузів",
+    "category": "Приватний будинок",
+    "description": "Проєкт приватного житлового простору",
+    "cover": "/projects/kluziv/1.jpg",
+    "images": [
+      "/projects/kluziv/1.jpg",
+      "/projects/kluziv/2.jpg",
+      "/projects/kluziv/3.jpg"
+    ],
+    "titleEn": "Kluziv",
+    "categoryEn": "Private house",
+    "descriptionEn": "Private residential design project"
+  },
+  {
+    "slug": "drawings-base",
+    "title": "Креслення пакет BASE",
+    "category": "Креслення",
+    "description": "Базовий пакет креслень для дизайн-проєкту",
+    "cover": "/projects/drawings-base/1.jpg",
+    "images": [
+      "/projects/drawings-base/1.jpg",
+      "/projects/drawings-base/2.jpg",
+      "/projects/drawings-base/3.jpg"
+    ],
+    "titleEn": "Drawings package BASE",
+    "categoryEn": "Drawings",
+    "descriptionEn": "Basic drawing package for an interior design project"
+  },
+  {
+    "slug": "drawings-max",
+    "title": "Креслення пакет MAX",
+    "category": "Креслення",
+    "description": "Максимальний пакет креслень для повного дизайн-проєкту",
+    "cover": "/projects/drawings-max/1.jpg",
+    "images": [
+      "/projects/drawings-max/1.jpg",
+      "/projects/drawings-max/2.jpg",
+      "/projects/drawings-max/3.jpg"
+    ],
+    "titleEn": "Drawings package MAX",
+    "categoryEn": "Drawings",
+    "descriptionEn": "Full drawing package for a complete interior design project"
   }
 ]
