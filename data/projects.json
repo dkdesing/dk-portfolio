@@ -3,26 +3,22 @@
     "slug": "sky-centre",
     "title": "SKY centre",
     "category": "Житловий інтерʼєр",
-    "description": "Комплексний дизайн квартири: кухня-вітальня, спальня, ТВ-зона та санвузол у світлій мінімалістичній палітрі.",
+    "description": "Комплексний дизайн квартири",
     "cover": "/projects/sky-centre/1.jpg",
     "images": [
       "/projects/sky-centre/1.jpg",
-      "/projects/sky-centre/2.jpg",
-      "/projects/sky-centre/3.jpg",
-      "/projects/sky-centre/4.jpg",
-      "/projects/sky-centre/5.jpg",
-      "/projects/sky-centre/6.jpg",
-      "/projects/sky-centre/7.jpg"
+      "/projects/sky-centre/2.jpg"
     ],
     "titleEn": "SKY centre",
     "categoryEn": "Residential interior",
-    "descriptionEn": "A complete apartment design: kitchen-living room, bedroom, TV area and bathroom in a light minimalist palette."
+    "descriptionEn": "Complete apartment design"
   },
+
   {
     "slug": "manhattan",
     "title": "Manhattan",
     "category": "Житловий інтерʼєр",
-    "description": "Сучасний інтерʼєр у світлому мінімалістичному стилі з акцентом на комфорт, чисті лінії та спокійну атмосферу.",
+    "description": "Сучасний інтерʼєр у світлому мінімалістичному стилі",
     "cover": "/projects/manhattan/1.svg",
     "images": [
       "/projects/manhattan/1.svg",
@@ -31,21 +27,22 @@
     ],
     "titleEn": "Manhattan",
     "categoryEn": "Residential interior",
-    "descriptionEn": "A modern interior in a light minimalist style focused on comfort, clean lines and a calm atmosphere."
+    "descriptionEn": "Modern light minimalist interior"
   },
-  { 
 
-  "slug": "manhattan-2",
-  "title": "Manhattan 2",
-  "category": "Житловий інтерʼєр",
-  "description": "Сучасний інтерʼєр...",
-  "cover": "/projects/manhattan/1.svg",
-  "images": [
-    "/projects/manhattan/1.svg",
-    "/projects/manhattan/2.svg",
-    "/projects/manhattan/3.svg"
-  ],
-  "titleEn": "Manhattan 2",
-  "categoryEn": "Residential interior",
-  "descriptionEn": "A modern interior..."
-}
+  {
+    "slug": "manhattan-2",
+    "title": "Manhattan 2",
+    "category": "Житловий інтерʼєр",
+    "description": "Сучасний інтерʼєр у темному стилі",
+    "cover": "/projects/manhattan-2/1.jpg",
+    "images": [
+      "/projects/manhattan-2/1.jpg",
+      "/projects/manhattan-2/2.jpg",
+      "/projects/manhattan-2/3.jpg"
+    ],
+    "titleEn": "Manhattan 2",
+    "categoryEn": "Residential interior",
+    "descriptionEn": "Modern dark style interior"
+  }
+]
